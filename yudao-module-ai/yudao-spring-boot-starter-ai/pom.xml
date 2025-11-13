@@ -14,7 +14,7 @@
     <name>${project.artifactId}</name>
     <description>AI 大模型拓展，接入国内外大模型</description>
     <properties>
-        <spring-ai.version>1.0.0-M6</spring-ai.version>
+        <spring-ai.version>1.1.0</spring-ai.version>
     </properties>
 
     <dependencies>
